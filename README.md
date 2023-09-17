@@ -8,7 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
  Question---Answer
- 1. Add 3 project features
- Ans: 1.The Project is about "Building programming related course Website"
- 2. You can learn here Basic to Advance Programming & build your career through these courses.Each course varies based on credit hour & price.  So you can purchase course upto 20 credit hour.
- 3. the project has been built using React Js which is also a library of popular programming language that is "JavaScript"
+ Add 3 project features
+ Ans:
+ 1.The Project is about "Building a wesite on programming related courses."
+ 3. You can learn here Basic to Advance Programming & build your career through these courses.Each course varies based on credit hour & price.  So you can purchase course upto 20 credit hour.
+ 4. the project has been built using React Js which is also a library of popular programming language that is "JavaScript"
