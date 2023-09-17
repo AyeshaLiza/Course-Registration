@@ -4,11 +4,11 @@ import './Cart.css';
 const Cart = ({selectedCourse, totalPrice,creditHour, remainingCredit}) =>{
  return (
   <div className='bg-white mx-4 p-4 rounded-lg h-96 '>
-    <h1>Credit Hour Remaining: {remainingCredit} hr</h1>
+    <h1 className='text-amber-600 '>Credit Hour Remaining: {remainingCredit} hr</h1>
     <h2 className='border border-solid my-3'></h2>
 
 
-   <h1 className='text-2xl'> Course Name:</h1>
+   <h1 className='text-2xl text-amber-600'> Course Name:</h1>
 
 
      {
@@ -25,9 +25,9 @@ const Cart = ({selectedCourse, totalPrice,creditHour, remainingCredit}) =>{
      }
      
      <h1 className='border border-solid my-3'></h1>
-          <h1 className='text-xl '>Total Credit Hour:{creditHour}</h1>
+          <h1 className='text-xl text-amber-600 '>Total Credit Hour:{creditHour}</h1>
           <h2 className='border border-solid my-3'></h2>
-          <h1 className='text-xl '>Total Price:{totalPrice}</h1>
+          <h1 className='text-xl text-amber-600 '>Total Price:{totalPrice}</h1>
   </div>
  )
 }
