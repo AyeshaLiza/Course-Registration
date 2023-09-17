@@ -2,8 +2,8 @@
 [
  {
    "image": "https://i.ibb.co/W6PfwXq/Rectangle-2.png",
-   "name": "Introduction to C Programming",
-   "details": "Get started with the fundamentals of the C programming language. Learn about variables, data types, loops, and basic programming concepts.",
+   "name": "C Programming Basics ",
+   "details": "Get started with the basic of the C programming language. Learn about variables,data types, loops & basic programming concepts.",
    "price": "15000",
    "credit": "1hr",
    "id": 1
@@ -11,7 +11,7 @@
  {
    "image": "https://i.ibb.co/zV6ZPpv/Rectangle-2-1.png",
    "name": "Introduction to Algorithms",
-   "details": "Explore the world of algorithms and algorithmic thinking. Learn how to solve complex problems efficiently.",
+   "details": "Explore the world of algorithms and algorithmic thinking. Learn how to solve complex problems efficiently along with programming basics.",
    "price": "25000",
    "credit": "2hr",
    "id": 2
@@ -35,7 +35,7 @@
  {
    "image": "https://i.ibb.co/MhfTkmB/Rectangle-2-3.png",
    "name": "Introduction to OOP Python",
-   "details": "Dive into object-oriented programming using Python. Explore classes, objects, and inheritance.",
+   "details": "Dive into object-oriented programming using Python. Explore classes, objects, data structures such as array and inheritance .",
    "price": "19000",
    "credit": "5hr",
    "id": 5
@@ -44,7 +44,7 @@
  {
    "image": "https://i.ibb.co/nBbxLC1/Rectangle-2-4.png[/img][/url]",
    "name": "Software Engineering",
-   "details": "Gain insights into the principles of software engineering. Learn about project management, software development methodologies, and best practices.",
+   "details": "Gain insights into the principles of software engineering. Learn about software development methodologies, and best practices.",
    "price": "23000",
    "credit": "2hr",
    "id": 6

@@ -7,7 +7,7 @@ const {image, name, details, price, credit} = card;
  return (
  <>
   <div>
-   <div className="card  bg-white border p-3 rounded-lg space-y-4"> 
+   <div className="card  bg-white border p-4  rounded-lg space-y-4"> 
        <div>
         <img className='w-full' src={image} alt="" />
        </div>

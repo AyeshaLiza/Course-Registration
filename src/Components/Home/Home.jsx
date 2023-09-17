@@ -18,7 +18,7 @@ useEffect(() => {
   
 
     <div className="Home-container w-4/5">
-     <div className="card-container  grid grid-cols-3 gap-6"> 
+     <div className="card-container grid grid-cols-3 gap-6"> 
         {
           courses.map(course => <Card key={course.id}  card={course} handleSelect={handleSelect}></Card> )
         }
