@@ -1,0 +1,76 @@
+
+[
+ {
+   "image": "https://i.ibb.co/W6PfwXq/Rectangle-2.png",
+   "name": "Introduction to C Programming",
+   "details": "Get started with the fundamentals of the C programming language. Learn about variables, data types, loops, and basic programming concepts.",
+   "price": "15000",
+   "credit": "1hr",
+   "id": 1
+ },
+ {
+   "image": "https://i.ibb.co/zV6ZPpv/Rectangle-2-1.png",
+   "name": "Introduction to Algorithms",
+   "details": "Explore the world of algorithms and algorithmic thinking. Learn how to solve complex problems efficiently.",
+   "price": "25000",
+   "credit": "2hr",
+   "id": 2
+ },
+ {
+   "image": "https://i.ibb.co/tzxs3xM/Rectangle-2-2.png[/img][/url]",
+   "name": "Introduction to C++ for DSA",
+   "details": "Discover C++ and its applications in data structures and algorithms. Build a strong foundation for competitive programming.",
+   "price": "10000",
+   "credit": "1hr",
+   "id": 3
+ },
+ {
+   "image": "https://i.ibb.co/WP3J0W8/Rectangle-3.png",
+   "name": "Basic Data Structures",
+   "details": "Learn essential data structures such as arrays, linked lists, and stacks. Understand their implementation and usage.",
+   "price": "35000",
+   "credit": "5hr",
+   "id": 4
+ },
+ {
+   "image": "https://i.ibb.co/MhfTkmB/Rectangle-2-3.png",
+   "name": "Introduction to OOP Python",
+   "details": "Dive into object-oriented programming using Python. Explore classes, objects, and inheritance.",
+   "price": "19000",
+   "credit": "5hr",
+   "id": 5
+
+ },
+ {
+   "image": "https://i.ibb.co/nBbxLC1/Rectangle-2-4.png[/img][/url]",
+   "name": "Software Engineering",
+   "details": "Gain insights into the principles of software engineering. Learn about project management, software development methodologies, and best practices.",
+   "price": "23000",
+   "credit": "2hr",
+   "id": 6
+ },
+ {
+   "image": "https://i.ibb.co/M1BZXX2/Rectangle-3-1.png",
+   "name": "AWS, Cloud Computing",
+   "details": "Explore Amazon Web Services (AWS) and cloud computing technologies. Learn how to deploy and manage cloud-based applications.",
+   "price": "35000",
+   "credit": "5hr",
+   "id": 7
+ },
+ {
+   "image": "https://i.ibb.co/YR5z9Kb/Rectangle-2-5.png",
+   "name": "Database with MySQL",
+   "details": "Master the fundamentals of database management with MySQL. Learn to design and query relational databases.",
+   "price": "19000",
+   "credit": "5hr",
+   "id": 8
+ },
+ {
+   "image": "https://i.ibb.co/wgX7Y8S/Rectangle-2-6.png",
+   "name": "Problem-Solving Strategies",
+   "details": "Develop problem-solving skills and strategies for tackling challenging programming and algorithmic problems.",
+   "price": "23000",
+   "credit": "2hr",
+   "id": 9
+ }
+]
