@@ -42,7 +42,7 @@ function App() {
   return (
   <div>
     <div className='bg-red-50'>
-  <h1 className='text-4xl text-center p-7'>Course Regestration</h1>
+  <h1 className='text-4xl text-center text-orange-400 font-medium p-7'>Course Regestration</h1>
     <div className='container flex'>
     <Home handleSelect={handleSelect}
     ></Home> 

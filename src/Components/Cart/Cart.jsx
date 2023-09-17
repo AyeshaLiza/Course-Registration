@@ -4,7 +4,7 @@ import './Cart.css';
 const Cart = ({selectedCourse, totalPrice,creditHour, remainingCredit}) =>{
  return (
   <div className='bg-white mx-4 p-4 rounded-lg h-96 '>
-    <h1 className='text-amber-600 '>Credit Hour Remaining: {remainingCredit} hr</h1>
+    <h1 className='text-amber-600'>Credit Hour Remaining: {remainingCredit} hr</h1>
     <h2 className='border border-solid my-3'></h2>
 
 
