@@ -3,7 +3,8 @@ import { useState } from 'react'
 import './App.css'
 import Home from './Components/Home/Home'
 import Cart from './Components/Cart/Cart'
-
+import swal from 'sweetalert';
+ 
 
 function App() {
 
@@ -17,7 +18,8 @@ function App() {
     let hour = parseInt(card.credit);
 
     if(isExist){
-      alert('already selected')
+      return swal("Course Already Selected");
+
     }else{
      selectedCourse.forEach((item) => {
         count = count + parseInt(item.price);     
@@ -26,11 +28,12 @@ function App() {
      });
         const creditRemaining = 20- hour;
      if(hour> 20){
-      return alert ('You Can not purchase More')
+      return swal("upps! You Can not purchase More");
      }
      setCreditHour(hour);
       if(creditRemaining <0){
-        return alert ('sorry! Credit limit fulfilled')
+        return swal("sorry! Credit limit fulfilled");
+        
       }
      setRemainingCredit(creditRemaining);
      
